@@ -13,7 +13,7 @@ Just take all of the files here and copy them into an existing CI project, and e
 ### Files:
 *config/gold_auth.php
 
-The main config file for the library. Use to set table names, authentication, and cryptography options.
+	The main config file for the library. Use to set table names, authentication, and cryptography options.
 
 *language/english/gold_auth_lang.php
 	

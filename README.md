@@ -16,8 +16,9 @@ Just take all of the files here and copy them into an existing CI project, and e
 The main config file for the library. Use to set table names, authentication, and cryptography options.
 
 *language/english/gold_auth_lang.php
-
+	
 	Specifies success and error messages.
+
 
 *models/gold_auth_model.php
 

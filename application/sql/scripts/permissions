@@ -1,0 +1,8 @@
+============================================================
+use this file to define role permission mappings.
+each line is a mapping, of the form:
+
+	'role'	'permission'
+
+make sure this section is deleted before running script
+============================================================

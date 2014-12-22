@@ -13,7 +13,8 @@ Just take all of the files here and copy them into an existing CI project, and e
 ### Files:
 *config/gold_auth.php
 
-	The main config file for the library. Use to set table names, authentication, and cryptography options.
+	The main config file for the library. Use to set table names, authentication, 
+	and cryptography options.
 
 *language/english/gold_auth_lang.php
 	
@@ -42,5 +43,7 @@ Just take all of the files here and copy them into an existing CI project, and e
 
 *view/auth/permission_denied.php
 
-	Basic permission denied page for when users are naughty and try to do things they're not allowed. Edit this to suit the look and feel of your web app, or replace it altogether.
+	Basic permission denied page for when users are naughty and try to do things they're 
+	not allowed to do. Edit this to suit the look and feel of your web app, or replace 
+	it altogether.
 
